@@ -76,8 +76,6 @@ house-prices/
 ### 2.RFE(Recursive Feature Elimination)
 RFE არის კარგი მეთოდი რომ მოიშოროს ყველაზე სუსტი feature-ები სანამ სასურველ რაოდენობას არ მიაღწევს და ტოვებს მხოლოდ საუკეთესოებს. სხვადასხვა რაოდენობები ვცადე და საბოლოოდ  ავირჩიე 50 სვეტი (აქმდე სულ უმჯობესდებოდა და ამის მერე ძალიან მცირე იყო სხვაობა).
 
-<img width="1336" height="942" alt="Screenshot 2026-04-11 111512" src="https://github.com/user-attachments/assets/2b618bc3-8eb9-46d7-9d84-664b2ab51dd5" />
-
 <img width="1341" height="955" alt="Screenshot 2026-04-11 135017" src="https://github.com/user-attachments/assets/8a8b8860-0af3-42f4-a031-0c36a57e70f2" />
 
 
@@ -110,8 +108,6 @@ alpha პარამეტრი აკონტროლებს regularizati
 <img width="1343" height="984" alt="Screenshot 2026-04-09 224247" src="https://github.com/user-attachments/assets/ce08723f-517e-4f3e-a4a0-f0eb5efc494e" />
 
 სწორედ ეს ცდომილობები რომ შევამციროთ უნდა ვცვალოთ პარამეტრები.  შევცვალე ყველა შესაძლო პარამეტრი და შევადარე და საბოლოოდ აღმოჩნდა, რომ Linear Regression დასაწყისთან შედარებით რამდენად გაუმჯობესდა.
-
- <img width="1327" height="977" alt="Screenshot 2026-04-10 142705" src="https://github.com/user-attachments/assets/0bf8f635-ef74-43b4-9fb8-3c9a1c441cc6" />
 
  <img width="1341" height="995" alt="Screenshot 2026-04-11 135041" src="https://github.com/user-attachments/assets/034befa4-92b7-4313-b267-e02e37f755f9" />
 
