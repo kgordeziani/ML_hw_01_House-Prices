@@ -133,6 +133,10 @@ Decision Tree-ში ძალიან დიდი მნიშვნელო
 შერჩევის კრიტერიუმი: ყველაზე დაბალი val_rmsle სადაც val_rmsle ≈ train_rmsle  — ანუ როცა მოდელმა შეისწავლა პატერნი და არა დაიზეპირა. ჩემ შემთვევაში საუკეთესო გამოვიდა **Linear Regression**.
 მართალია Ridge_a10 საკმაოდ კარგ კონკურენციას უწევს რადგან val_rmsle მას უფორო პატარა აქ, მაგრამ ერთობლივი სურათით Linear Regression ვამჯობინებ რადგან overfitting ნაკლებად იქნებ.
 
+### Kaggle Score
+<img width="1848" height="175" alt="Screenshot 2026-04-11 214545" src="https://github.com/user-attachments/assets/f9d2c222-e53b-4e0b-ac90-78c4d52c4ea5" />
+
+
 ---
 ## MLflow ექსპერიმენტები DagsHub-ზე
 ყველა run დარეგისტრირებულია: [Dagshub MLflow](https://dagshub.com/kgord23/ML_hw_01_House-Prices)
